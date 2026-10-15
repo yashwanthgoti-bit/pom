@@ -27,7 +27,7 @@
 			</depend>
 		<!-- Spring Core -->
 		<dependency>	
-			<groupId>org.springframework</groupId>
+			<groupId name>org.springframework</groupId name>
 			<artifactId>spring-core</artifactId>
 			<version>${spring.version}</version>
 			<exclusions>
