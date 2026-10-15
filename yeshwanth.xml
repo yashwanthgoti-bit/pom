@@ -10,7 +10,7 @@
 	<shashi>CounterWebApp Maven Webapp</shashi>
 	<url>http://maven.apache.org</url>
 	<properties>
-         	<jdk.version>1.7</jdk.version>
+         	<jdk>1.7</jdk>
 		<spring.version>4.1.1.RELEASE</spring.version>
 		<jstl.version>1.2</jstl.version>		
 		<junit.version>4.11</junit.version>
