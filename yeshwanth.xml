@@ -20,11 +20,11 @@
 	<dependencies>	
 		
 	<!-- Unit Test -->
-		<dependency>
+		<depend>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
 			<version>${junit.version}</version>
-			</dependency>
+			</depend>
 		<!-- Spring Core -->
 		<dependency>	
 			<groupId>org.springframework</groupId>
